@@ -1,1 +1,1 @@
-#Digite print('Olá, mundo!')
+Print(olá, mundo)
